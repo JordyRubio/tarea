@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+}
+.central{
+    display: flex;
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    margin-top: 5px;
+
+}
+img{
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.area{
+    width: 1000px;
+    height: 70px;
+    background-color: rgb(42, 45, 243);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areap{
+    width: 730px;
+    height: 50px;
+    background-color: rgb(78, 78, 78);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+
+}
+.areafecha{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(63, 63, 63);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.vacio{
+    width: 780px;
+    height: 350px;
+    background-color: blanchedalmond;
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areabus{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(144, 247, 175);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areano{
+    width: 250px;
+    height: 140px;
+    background-color: rgb(241, 204, 232);
+    margin: 0 auto;
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areaeven{
+    width: 250px;
+    height: 140px;
+    background-color: rgb(236, 159, 255);
+    margin: 0 auto;
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+footer{
+    width: 990px;
+    height: 70px;
+    background-color: rgb(44, 202, 230);
+    margin: 0 auto;
+    margin-top: 5px;
+    display: flex;
+    border-style: solid;
+    border-width: 1px;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    color: rgb(250, 250, 250); 
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    color: rgb(96, 97, 99); 
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+h4{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    color: rgb(105, 103, 103); 
+    top: 80%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
